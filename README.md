@@ -1,4 +1,4 @@
-<!--
+- [pc-diag](https://github.com/progerman666/pc-diag) - Portable Windows diagnostics tool: SMART health, Event Log, network. Read-only, no install.<!--
 # Important message from maintainers
 ## Important message from maintainers
 ### Important message from maintainers
